@@ -1,0 +1,38 @@
+main{background-color: gray;
+  height: 450px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 10px;
+}
+section{
+  background-color: green;
+  height: 200px;
+  width: 400px;
+  border-radius: 10%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDd7T5CbOVSMt4Y2U749j0OF308gtUJdcvw&usqp=CAU");
+}
+article{
+  height: 200px;
+  width: 400px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQMWyOQzt1sPHkqVde0ltAL6zXf6DbrWwiww&usqp=CAU");
+}
+div#m1{
+  height: 200px;
+  width: 300px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4-JajZeUs2SWXBP7VFPjFaMPzNDiNn_vqDt0hLqBLAVpnpkoUfkKYm2z&s=10");
+  
+}
+div#m2{
+  height: 200px;
+  width: 300px;
+  background-image: url("https://placar.com.br/wp-content/uploads/2024/01/IMG_2630-300x176.jpeg");
+}
+div#m3{
+  height: 200px;
+  width: 300px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9HVHLEVKhDpzDjmW611YaR7wukGK3hPSTA&usqp=CAU");
+}
+
+
+
